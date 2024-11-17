@@ -1,0 +1,8 @@
+---
+category: data
+filename: NEON_chem_wide.csv
+weight: 2
+title: NEON chem data wide
+description: NEON chemistry data used in analysis on Trost et al 2024 in wide format with calculations of stoichiometric ratios 
+type: csv
+---
