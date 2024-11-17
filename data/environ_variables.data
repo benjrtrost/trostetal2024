@@ -3,6 +3,6 @@ category: data
 filename: environ_variables.csv
 weight: 3
 title: Environmental variables
-description: By site data for watershed area, National Land Cover database categories, and seasonality used as predictor variables for BRT modeling in Trost et al. 2024 
+description: Data for watershed area, National Land Cover database categories, and seasonality by site. Used as predictor variables for BRT modeling in Trost et al. 2024 
 type: csv
 ---
