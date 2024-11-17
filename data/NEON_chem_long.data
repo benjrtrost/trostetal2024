@@ -1,8 +1,8 @@
 ---
 category: data 
 filename: NEON_chem_long.csv
-weight = 1
-title = NEON chemistry data (long)
+weight: 1
+title: NEON chemistry data (long)
 description: Cleaned NEON chemistry data in long format.
 type: csv
 ---
